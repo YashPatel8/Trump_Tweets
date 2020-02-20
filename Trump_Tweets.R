@@ -18,7 +18,6 @@ cname <- file.path("C:", "texts")
 cname   
 dir(cname)
 
-
 ##########Start Analysis#################################
 #Load package "tm" and all the files you have downloaded
 library(tm)
